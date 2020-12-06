@@ -1,29 +1,33 @@
-.body {
-	height: 100%;
-    width: 100%;
-    padding: 0 2.7 2.7 2.7;
-}
-.title1 {
-	text-align: center;
-}
 .box{
-	margin: 40px;
+    margin: 40px;
 	border: 4px solid;
 	border-color:#006837;
-    background-color: #56836F;
+	background-color: #56836F;
 }
 header{
 	padding: 40px 100px 0 0; 
 	font-size: 48px;
-    color: white;
-}
-.linav {
-	display: inline-block;
 	color: white;
-	font-size: 48px;
-	text-transform: uppercase;
 }
-.logo {
+.navtable{
 	float: right;
-	margin: 49px 56px 0 0;
-}
+	padding-top:90px;
+	padding-bottom: 100px;
+	padding-left: 100px
+    }
+    .linav{
+        display: inline-block;
+        margin-right: 30px;
+    }
+    .menu{
+        color:white;
+    }
+    .logo{
+            width:  170px;
+            float: right;
+            padding-top: 30px;
+            padding-left:60px;
+    }
+    .clear{
+        clear: right;
+    }
