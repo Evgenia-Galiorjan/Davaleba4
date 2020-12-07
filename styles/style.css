@@ -11,7 +11,7 @@ body {
 	margin-top:10px;
 	color:black;
 	font-size:18px;
-	font-family: MyriadPro-Regular;
+	font-family: "Myriad Pro-Regular";
 }
 .maincontainer {
 	height: 700px;
@@ -25,6 +25,7 @@ body {
 	font-family: 'Myriad Pro';
 	color: white;
 	font-size: 48px;
+	font-family: "MyriadPro-Regular";
 }
 .logo {
 	float: right;
@@ -36,6 +37,8 @@ body {
 .menu {
 	color: white;
 	margin-left: 20px;
+	font-family: "MyriadPro-Regular";
+
 }
 nav {
 	float: right;
