@@ -45,26 +45,26 @@ header:after {
 	clear: right;
 }
 
-.container {
+.div {
 	max-width: 1160px;
 	width: 100%;
 	margin: 0 auto;
 }
-.box1 {
+.content1 {
 	margin-top: 63.5px;
 	width: 571px ;
 	height: 356px;
 	background-color: #23206A;
 	float: left;
 }
-.box2{
+.content2{
 	margin-top: 63.5px;
 	width: 523px;
 	background-color: #23206A;
 	height: 356px;
 	float:right;
 }
-.margin {
+.border {
 	margin: 22px 29px 18px 26px;
 }
 p {
