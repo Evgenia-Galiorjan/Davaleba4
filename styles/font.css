@@ -8,15 +8,20 @@
     font-style: normal;
   }
   @font-face {
-    font-family: 'SEGOEUIL';
-    src: url('./SEGOEUIL.eot');
-    src: local('SEGOEUIL'), url('./SEGOEUIL.woff') format('woff'), url('./SEGOEUIL.ttf') format('truetype');
-  }
-  /* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_1409">Text with this font applied</p> */
-  .fontsforweb_fontid_1409 {
-    font-family: 'SEGOEUIL' !important;
+    font-family: 'SegoeUI-Regular';
+    src: url('../fonts/SegoeUI-Regular.svg#SegoeUI-Regular') format('svg'),
+         url('../fonts/SegoeUI-Regular.ttf') format('truetype'),
+         url('../fonts/SegoeUI-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
   }
   
-  /* Font downloaded from FontsForWeb.com */
-  
+  @font-face {
+    font-family: 'segoe-ui';
+    src: url('../fonts/segoe-ui.eot');
+    src: url('../fonts/segoe-ui.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/segoe-ui.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
   
